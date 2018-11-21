@@ -1,1 +1,1 @@
-../mlp_gan_v1/discriminator.py
+../mlp_gan_v2/discriminator.py

@@ -1,1 +1,1 @@
-../mlp_gan_v1/create_dataset.py
+../mlp_gan_v2/create_dataset.py
