@@ -1,1 +1,1 @@
-../mlp_gan_v2/config.py
+../mlp_gan_v3/config.py

@@ -1,1 +1,1 @@
-../mlp_gan_v2/train.py
+../mlp_gan_v3/train.py
