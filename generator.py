@@ -1,0 +1,1 @@
+../mlp_gan_v1/generator.py
