@@ -1,1 +1,1 @@
-../mlp_gan_v4/generator.py
+../mlp_gan_v5/generator.py

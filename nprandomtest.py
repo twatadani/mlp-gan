@@ -1,1 +1,1 @@
-../mlp_gan_v4/nprandomtest.py
+../mlp_gan_v5/nprandomtest.py

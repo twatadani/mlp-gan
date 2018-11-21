@@ -1,1 +1,1 @@
-../mlp_gan_v4/tensorfeedtest.py
+../mlp_gan_v5/tensorfeedtest.py
